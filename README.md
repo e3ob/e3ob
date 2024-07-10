@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ## 💫 About Me:
 🔭 I’m currently a 3rd year Btech CSE student<br>🌱 I’m currently learning React & NextJS<br>
 
+[![](https://visitcount.itsvg.in/api?id=TheHellRuler&icon=8&color=13)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/hyper_heart_) 
@@ -57,7 +58,4 @@ Here are some ideas to get you started:
 <!-- ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 -->
----
-[![](https://visitcount.itsvg.in/api?id=TheHellRuler&icon=8&color=13)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
