@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <!--
-**TheHellRuler/TheHellRuler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**e3ob/e3ob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 🌱 I’m currently learning React & NextJS
 <!-- https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg -->
 
-[![](https://visitcount.itsvg.in/api?id=TheHellRuler&icon=8&color=13)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=e3ob&icon=8&color=13)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/hyper_heart_) 
@@ -47,19 +47,19 @@ Here are some ideas to get you started:
 -->
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TheHellRuler&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=TheHellRuler&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheHellRuler&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=e3ob&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=e3ob&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=e3ob&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=TheHellRuler&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=e3ob&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
 
 <!--
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=TheHellRuler&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=e3ob&limit=5&theme=dark&combine_all_yearly_contributions=true)
 -->
 <!-- ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
