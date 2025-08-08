@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## 💫 About Me:
-🔭 I’m currently a 3rd year Btech CSE student <br>
+🔭 I’m currently a 4th year Btech CSE student <br>
 🌱 I’m currently learning React & NextJS
 <!-- https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg -->
 
